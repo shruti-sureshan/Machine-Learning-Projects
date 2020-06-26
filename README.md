@@ -1,1 +1,1 @@
-# ML-course
+# ML-Projects
