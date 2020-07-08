@@ -1,1 +1,1 @@
-# Python-course-projects
+# Malaria Parasite Classification using Image processing and Machine Learning/
