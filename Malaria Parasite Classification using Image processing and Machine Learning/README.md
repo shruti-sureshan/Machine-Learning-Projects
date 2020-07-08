@@ -1,1 +1,1 @@
-# Malaria Parasite Classification using Image processing and Machine Learning/
+# Malaria Parasite Classification using Image processing and Machine Learning
