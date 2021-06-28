@@ -11,7 +11,7 @@ Technologies: Machine Learning, Python, Jupyter Notebook
 
 Blog Post: https://shrutisureshan.medium.com/comparative-analysis-of-bins-method-and-convolutional-neural-network-for-malaria-detection-535e2be51125
 
-Demo:
+Demo:  https://www.youtube.com/watch?v=pE8fv9BBQ2Q
 
 https://user-images.githubusercontent.com/67042828/123654289-8fb3bc80-d84b-11eb-944f-68718b1cf01d.mp4
 
