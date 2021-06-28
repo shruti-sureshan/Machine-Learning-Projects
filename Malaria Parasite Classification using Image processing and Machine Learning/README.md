@@ -1,6 +1,6 @@
 # Malaria Parasite Classification using Image processing and Machine Learning
 
-This research based project is a comparative analysis of Bins approach and Convolutional Neural Network on Malaria Dataset where our first approach focuses on image processing techniques like pre-processing, segmentation using Otsu’s segmentation and Watershed segmentation algorithm, and extracted statistical features using the color moments, texture features using GLCM Matrix, and color features using the Bins Algorithm. These images were then classified using ML classification algorithms. Our second approach focuses on CNN which helps analyze and find patterns in an image for malaria detection.
+This research project is a comparative analysis of Bins approach and Convolutional Neural Network on Malaria Dataset where our first approach focuses on Image Processing techniques like Pre-processing, Segmentation using Otsu’s Segmentation and Watershed Segmentation Algorithm, and extracted Statistical features using the color moments, Texture features using GLCM Matrix, and Color features using the Bins Algorithm. These images were then classified using ML classification algorithms like Random Forest and Linear SVM. Our second approach focuses on Convolutional Neural Networks which helps analyze and find patterns in an image for Malaria detection.
 
 Classifiers Implemented and their accuracy:
 1. CNN – 94%
